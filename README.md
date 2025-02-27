@@ -1,4 +1,4 @@
-# Boilerplate: Nest.js + TypeORM  #
+# Test: Nest.js + TypeORM  #
 
 A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of Nest.js
 
